@@ -4,6 +4,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 80px;
 }
 .hero{
     background-image: url(image/hback.jpg);
@@ -30,4 +31,18 @@ h1{
 .half-width{
     width: 50%%;
     padding-right: 50px;
+}
+.about-me{
+    background-image: url(image/back2.png);
+    background-repeat: no-repeat;
+}
+.a-me{
+    width: 40%;
+    padding-left: 50px;
+}
+#white{
+    color: cornsilk;
+}
+.a-me img{
+    width: 100%;
 }
